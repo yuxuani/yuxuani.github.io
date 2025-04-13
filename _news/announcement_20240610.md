@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-🎉 Paper accepted! Upcoming: [MIE 2024](https://mie2024.org/), Athens, Greece.
+🎉 Excited to share that our paper was accepted — see you at [MIE 2024](https://mie2024.org/) in Athens, Greece!
