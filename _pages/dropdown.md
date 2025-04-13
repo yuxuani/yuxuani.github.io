@@ -6,9 +6,9 @@ nav_order: 5
 dropdown: true
 children:
   - title: Publications
-    permalink: /publication/
+    permalink: /publications/
   - title: Repositories
-    permalink: /repository/
+    permalink: /repositories/
   - title: Bookshelf
     permalink: /books/
   - title: Contact
