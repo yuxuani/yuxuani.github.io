@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 description: contact info
 nav: false
-nav_order: 4
+nav_order: 5
 ---
