@@ -11,4 +11,6 @@ children:
     permalink: /repository/
   - title: Bookshelf
     permalink: /books/
+  - title: Contact
+    permalink: /contact/
 ---
