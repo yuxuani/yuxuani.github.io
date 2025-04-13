@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: github_avatar.png # prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: # >
     # <p>555 your office number</p>
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I’m a recent Master's graduate in Photonics from the University of Jena, specializing in machine learning and computer vision. Before I entered my master study, I completed my Bachelor's degree in Physics and studied in Biogeosciences for a time. In addition to formal education, I also actively seek personal growth through self-learning. I have a keen interest in computer science am enthusiastic about data science and cutting-edge AI technologies. I deeply value sustainability and humanistic principles and aspire to use technology to make the world a better place.
+I’m a Master's graduate in Photonics from the University of Jena, specializing in machine learning and computer vision. Before I entered my master study, I completed my Bachelor's degree in Physics and studied in Biogeosciences for a time. 
 
-If you’d like to get in touch, please visit my contact page.
+In addition to formal education, I also actively seek personal growth through self-learning. I have a keen interest in computer science am enthusiastic about data science and cutting-edge AI technologies. 
+
+I deeply value sustainability and humanistic principles and aspire to use technology to make the world a better place. If you’d like to get in touch, please visit my contact page.
