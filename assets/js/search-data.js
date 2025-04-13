@@ -383,18 +383,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-new-website-launched-explore-the-new-features-and-enhancements-d",
+            },},{id: "news-new-website-launched-explore-the-new-features-and-enhancements-d",
           title: '🎊 New website launched! Explore the new features and enhancements! :D',
           description: "",
           section: "News",},{id: "news-️-reached-a-new-milestone-12-km-mountain-trail-running-unlocked",
