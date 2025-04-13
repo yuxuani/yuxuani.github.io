@@ -30,4 +30,4 @@ I’m a Master's graduate in Photonics from the University of Jena, specializing
 
 In addition to formal education, I also actively seek personal growth through self-learning. I have a keen interest in computer science am enthusiastic about data science and cutting-edge AI technologies. 
 
-I deeply value sustainability and humanistic principles and aspire to use technology to make the world a better place. If you’d like to get in touch, please visit my contact page.
+I deeply value sustainability and humanistic principles and aspire to use technology to make the world a better place. If you’d like to get in touch, please visit my [contact page](https://yuxuani.github.io/contact/).
