@@ -399,7 +399,7 @@ ninja.data = [{
           title: '🎊 Graduated! Proud to announce: Master of Science in Photonics — officially achieved!...',
           description: "",
           section: "News",},{id: "news-website-updates-now-live-with-docker-integration",
-          title: '🎊 Website updates — now live with Docker integration!”',
+          title: '🎉 Website updates — now live with Docker integration!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
