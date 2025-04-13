@@ -5,7 +5,7 @@ date: 2024-08-25 00:00:00-0000
 inline: true
 related_posts: false
 ---
-⭐ Attending 34th Medical Informatics Europe Conference
+⭐ Attending 34th Medical Informatics Europe Conference ([MIE 2024](https://mie2024.org/)) and presenting our work -> Check out details [here](https://github.com/cvjena/ESPBM).
 
 <!-- <p align="center">
   <a href="https://inf-cv.uni-jena.de/home/research/learning3d/facial-paresis-analysis/">[Project Page]</a>
