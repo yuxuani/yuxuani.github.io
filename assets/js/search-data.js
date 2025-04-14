@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-why-i-blog-why-you-should-start-blogging-right-now",
+        
+          title: "Why I Blog / Why You Should Start Blogging Right Now",
+        
+        description: "benefits of blogging and common obstacles",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/why-blogging/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
