@@ -6,6 +6,7 @@ date: 2023-10-10 19:02:18
 language: zh
 tags:
 - 随笔
+- cheat sheet
 categories:
 - 中文
 ---

@@ -5,6 +5,7 @@ description: Datacamp notes -- loop
 tags:
   - python
   - data science
+  - cheat sheet
 categories:
   - Notes
 date: 2018-10-01 00:46:43
