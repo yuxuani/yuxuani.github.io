@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Build up Your Own Website with Hexo
 date: 2018-05-19 15:44:43
 language: en
