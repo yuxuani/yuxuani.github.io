@@ -37,15 +37,59 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-why-i-blog-why-you-should-start-blogging-right-now",
+        },{id: "post-fixing-jekyll-service-not-accessible-inside-docker-container",
+        
+          title: "Fixing Jekyll Service Not Accessible Inside Docker Container",
+        
+        description: "Solveing issues when importing markdown files from Hexo",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fix-jekyll-service-docker/";
+          
+        },
+      },{id: "post-why-i-blog-why-you-should-start-blogging-right-now",
         
           title: "Why I Blog / Why You Should Start Blogging Right Now",
         
-        description: "benefits of blogging and common obstacles",
+        description: "Benefits of blogging and common obstacles",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024/why-blogging/";
+          
+        },
+      },{id: "post-如何克服完美主义-1",
+        
+          title: "如何克服完美主义? (1)",
+        
+        description: "How to overcome perfectionism",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/perfectionism-1/";
+          
+        },
+      },{id: "post-python-for-data-science-loop",
+        
+          title: "Python for Data Science: Loop",
+        
+        description: "Datacamp notes -- loop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/python-for-data-science-loop/";
+          
+        },
+      },{id: "post-build-up-your-own-website-with-hexo",
+        
+          title: "Build up Your Own Website with Hexo",
+        
+        description: "Get started with hexo",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/build-website-with-hexo/";
           
         },
       },{id: "books-the-godfather",
