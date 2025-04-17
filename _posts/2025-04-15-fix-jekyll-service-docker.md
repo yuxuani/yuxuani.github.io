@@ -2,7 +2,7 @@
 layout: post
 title: Fixing Jekyll Service Not Accessible Inside Docker Container
 date: 2025-04-15
-tags: [Docker, Jekyll, Blogging, Debugging]
+tags: [docker, jekyll, blogging, debugging]
 ---
 
 While setting up a blog using the `amirpourmand/al-folio` Jekyll Docker image, I ran into an issue where the local site running inside the container was no longer accessible. Here's a breakdown of how I diagnosed and resolved the problem.
@@ -45,14 +45,19 @@ in /srv/jekyll/_posts/2018-05-19-build-website-with-hexo.md
 ```
 
 ## 🎯 Root Cause
-The `asset_img` tag is a custom tag from Hexo (since I was importing old posts into the new website). Jekyll and the al-folio theme do not recognize this tag. As a result, the site build failed, and the service never started.
+The `asset_img` tag is a custom tag from Hexo (since I was importing old posts into the new website). In this post, how to add an image is described, so there are lines like this `{% raw %}{% asset_img image_name.img display_name %}{% endraw %}` within the article. However, Jekyll does not recognize it, since Jekyll uses Liquid syntax which will contradict with `{% raw %} {% ... %} {%endraw%}` form. As a result, the site build failed, and the service never started.
 
 ## ✅ Solution
-I edited `_posts/2018-05-19-build-website-with-hexo.md` -- removed the offending line including {% raw %}`{% asset_img ... %}`{% endraw %} and `replaced it with standard Markdown image syntax:`
+I edited `_posts/2018-05-19-build-website-with-hexo.md` by adding `raw` and `endraw`  in front of the lines where could be problematic:
 
-```markdown
-![Alt Text](/assets/images/example.jpg)
+{% raw %}
 ```
+{% raw %}{% example code %}{% end %}
+```
+{% endraw %}
+
+(Simply removing the offending lines and replace with syntax compatible with Jekyll would also work but since the article is introducing hexo, I preserve the information to be displayed.)
+
 ## 🔁 Restart and Verify
 ```bash
 docker restart yuxuanigithubio-jekyll-1
