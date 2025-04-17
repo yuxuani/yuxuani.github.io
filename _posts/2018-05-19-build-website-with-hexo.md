@@ -41,7 +41,7 @@ hexo server # alternatively hexo s
 ```
 
 ## Customize your website
-some basics:
+Some basics:
 ### Configuration
 
 - Go to the folder and configurate the `_config.yml` file.
