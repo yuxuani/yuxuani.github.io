@@ -32,6 +32,8 @@ for index, a in enumerate(list):
 ```
 
 ## Looping data structures
+dict, numpy array, pandas
+
 ### Dictionary
 
 ```
