@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build up Your Own Website with Hexo
+description: Get started with hexo
 date: 2018-05-19 15:44:43
 language: en
 tags:
@@ -9,15 +10,15 @@ tags:
 categories:
 - Web
 ---
-## *Get started with Hexo*
-### Install Git and Node.js
+How to get started with Hexo?
+## Install Git and Node.js
 First, install [Git][2] and [Node.js][3]. You can check if they are successfully installed by tying the following commands.
 
 ```bash
 git version
 node -v
 ```
-### Install Hexo
+## Install Hexo
 Type in the following command:
 
 ```bash
@@ -28,7 +29,7 @@ For version checking, you may type in
 ```bash
 hexo -v
 ```
-### Create your website
+## Create your website
 - Type in `hexo init website_name` and Hexo will generate a template for you.
 - `cd` to the folder you just created
 - run `hexo server` and you can see the site in the localhost.
@@ -39,8 +40,8 @@ cd website_name
 hexo server # alternatively hexo s
 ```
 
-### Customize your website
-#### Configuration
+## Customize your website
+### Configuration
 
 - Go to the folder and configurate the `_config.yml` file.
 - In the `source` folder, there is a folder called `_posts`. That is where you can put your posts.
@@ -54,7 +55,7 @@ hexo publish draft_name # post the draft
 hexo new page page_name # create a new page
 ```
 
-#### Modification of Front Matter
+### Modification of Front Matter
 Your can modify your page or posts by just modifying the **front matter**. (see [Hexodocs: Front Matter][4]. ) Here is an example of sorting your posts by adding tags and categories.
 
 ```yaml
@@ -71,7 +72,8 @@ categories:
 
 **Now you're running your website, but you can do more to make your site to look like exactly what you want.**
 
-## *Furthermore*
+## Furthermore
+More things you can do with hexo:
 
 ### Change the theme
 With Hexo, you are able to change the theme without changing your content files. To change it, you may
@@ -123,7 +125,7 @@ print('Hello World')
 
 **Actually you can do a lot more with Hexo. You may want to characterize your website or even create your own theme. To go deeper, reading the [documentation][1] on the official website is neccessary. Plus, to get started, there is a series of [tutorial videos][6] provided by Mike from [Giraffe Academy][7], which is very helpful. Hope that you can enjoy it!**
 
-## *References*
+## References
 [Hexodocs][1]
 [Hexo Tutorial by Mike][6]
 
