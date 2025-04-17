@@ -3,8 +3,12 @@ layout: post
 title: Why I Blog / Why You Should Start Blogging Right Now
 date: 2024-04-15 00:00:00
 description: benefits of blogging and common obstacles
-tags: blogging thoughts 
-categories: essays highlights
+tags: 
+- blogging 
+- thoughts 
+categories:
+- Highlights
+- Essays
 chart:
   vega_lite: true
 ---

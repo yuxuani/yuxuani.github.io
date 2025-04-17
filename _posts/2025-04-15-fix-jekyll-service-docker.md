@@ -3,6 +3,8 @@ layout: post
 title: Fixing Jekyll Service Not Accessible Inside Docker Container
 date: 2025-04-15
 tags: [docker, jekyll, blogging, debugging]
+categories:
+- Debug
 ---
 
 While setting up a blog using the `amirpourmand/al-folio` Jekyll Docker image, I ran into an issue where the local site running inside the container was no longer accessible. Here's a breakdown of how I diagnosed and resolved the problem.
