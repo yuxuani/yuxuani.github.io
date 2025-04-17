@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fixing Jekyll Service Not Accessible Inside Docker Container
+description: Solveing issues when importing markdown files from Hexo
 date: 2025-04-15
 tags: [docker, jekyll, blogging, debugging]
 categories:
