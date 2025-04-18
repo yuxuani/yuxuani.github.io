@@ -1,8 +1,7 @@
 # Personal Website
-This is a personal professional website built using the [al-folio](https://github.com/alshedivat/al-folio) template.
+This is a personal professional website built using the [al-folio](https://github.com/alshedivat/al-folio) template, with modifications made to suit personal needs.
 
 ## Copyright Notice
-
 Unless otherwise noted, all original content on this website — including but not limited to blog posts, images, and other original materials — is © Yuxuan Xie. All rights reserved.
 
 Unauthorized use, reproduction, or redistribution of any original content on this website without express written permission is strictly prohibited.
