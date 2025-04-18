@@ -1,3 +1,18 @@
+# Personal Website
+This is a personal professional website built using the [al-folio](https://github.com/alshedivat/al-folio) template.
+
+## Copyright Notice
+
+Unless otherwise noted, all original content on this website — including but not limited to blog posts, images, and other original materials — is © Yuxuan Xie. All rights reserved.
+
+Unauthorized use, reproduction, or redistribution of any original content on this website without express written permission is strictly prohibited.
+
+## Template License
+
+This website uses a template adapted from [al-folio](https://github.com/alshedivat/al-folio) and follows the terms of its original license. For more information about the al-folio template, please refer to its [LICENSE file](https://github.com/yuxuani/yuxuani.github.io/blob/main/LICENSE).
+
+---
+
 # al-folio
 
 <div align="center">
@@ -224,6 +239,9 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
+- [Personal Website](#personal-website)
+  - [Copyright Notice](#copyright-notice)
+  - [Template License](#template-license)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
