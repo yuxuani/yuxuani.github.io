@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-fixing-jekyll-service-not-accessible-inside-docker-container",
+        },{id: "post-how-to-use-multiple-github-accounts-with-different-ssh-keys",
+        
+          title: "How to Use Multiple GitHub Accounts with Different SSH Keys",
+        
+        description: "Streamline your workflow with distinct SSH configurations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/multiple-ssh-keys/";
+          
+        },
+      },{id: "post-fixing-jekyll-service-not-accessible-inside-docker-container",
         
           title: "Fixing Jekyll Service Not Accessible Inside Docker Container",
         
