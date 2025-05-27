@@ -14,27 +14,31 @@ If you're working with multiple GitHub accounts, you might want to keep your cre
 
 First, generate SSH keys for each account. If you already have one key for `account1`, you'll generate a separate key for `account2`.
 
-**Generate Key for Account 1:**  
-If you haven’t done so already for `account1`, generate an SSH key:
-```bash
-ssh-keygen -t rsa -b 4096 -C "your_email1@example.com" -f ~/.ssh/id_rsa_account1
-```
+**Generate Key for Account 1:**（If you haven’t done so already）
+For `account1`, generate an SSH key:
 
+```bash
+ssh-keygen -t ed25519 -C "your_email2@example.com" -f ~/.ssh/id_ed25519_account1
+```
 Note:  
 - `ssh-keygen` is used to generate an SSH key pair.
-- `-t rsa`: Specifies using the RSA algorithm. `ecdsa` or `ed25519` are also options.
-- `-b 4096`: Specifies the key length as 4096 bits for stronger encryption.
-- `-C "your_email1@example.com"`: Adds a comment (email) for identification purposes.
+- `-t ed25519`: Uses the `ed25519` algorithm, which is faster and more secure than `rsa`.
+- `-C "your_email1@example.com"`: Adds a comment (e.g. your email) for identification purposes.
 - `-f ~/.ssh/id_rsa_account1`: Specifies the file where the private key will be saved.
 
-
 **Generate Key for Account 2:**  
-Similarly, generate a separate SSH key for account2:
+Similarly, generate a separate SSH key for `account2`:
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C "your_email2@example.com" -f ~/.ssh/id_rsa_account2
+ssh-keygen -t ed25519 -C "your_email2@example.com" -f ~/.ssh/id_ed25519_account1
 ```
+
 After creating these keys, make sure to add their corresponding public keys (id_rsa_account1.pub and id_rsa_account2.pub) to the respective GitHub account's SSH settings.
+
+**Add to GitHub**  
+After generating the keys, open each public key file (`id_ed25519_account1.pub` and `id_ed25519_account2.pub`) in a text editor, **copy the full contents**, and **paste** it into the corresponding GitHub account’s **SSH keys settings** under:
+
+> GitHub → Settings → SSH and GPG Keys → New SSH key
 
 ## ⚙️ Step 2: Configure SSH config File
 Next, we’ll configure the SSH settings to ensure that each account uses the correct key.
