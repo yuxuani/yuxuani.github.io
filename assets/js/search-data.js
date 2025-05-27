@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-how-to-use-multiple-github-accounts-with-different-ssh-keys",
+        },{id: "post-how-to-recover-a-lost-commit-and-merge-a-branch-in-git",
+        
+          title: "How to Recover a Lost Commit and Merge a Branch in Git",
+        
+        description: "Don&#39;t panic when you lose a commit accidentally.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/git-recover-lost-commit/";
+          
+        },
+      },{id: "post-how-to-use-multiple-github-accounts-with-different-ssh-keys",
         
           title: "How to Use Multiple GitHub Accounts with Different SSH Keys",
         
