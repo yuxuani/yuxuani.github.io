@@ -141,7 +141,7 @@ This lets you use different keys for different accounts and servers without conf
 
 Summary
 
-This beginner-friendly guide covers all the essentials for working with SSH keys, including:
+This guide covers all the essentials for working with SSH keys, including:
 
 - What SSH keys are and why they are better than passwords  
 - How to generate secure ed25519 SSH keys with custom filenames  
@@ -150,7 +150,7 @@ This beginner-friendly guide covers all the essentials for working with SSH keys
 - How to manage multiple SSH keys and accounts using the SSH config file  
 - Tips for naming keys and organizing multiple server connections  
 
-By following this guide, you will be able to confidently generate, name, and manage multiple SSH keys across different GitHub accounts and servers, improving your workflow security and convenience. Enjoy!
+By following this guide, you will be able to confidently generate, name, and manage multiple SSH keys across different GitHub accounts and servers, improving your workflow security and convenience. 
 
 If you have any questions or want to share your experience, feel free to leave a comment below. Let’s learn together! ：）
 
