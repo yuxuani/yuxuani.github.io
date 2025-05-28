@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-how-to-use-multiple-github-accounts-with-different-ssh-keys",
+        },{id: "post-complete-ssh-guide-for-beginners-generating-naming-and-mananing-ssh-keys",
+        
+          title: "Complete SSH Guide for Beginners: Generating, Naming and Mananing SSH Keys.",
+        
+        description: "“Everything you need to know about generating, naming, and managing SSH keys.”",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ssh-key-beginner-guide/";
+          
+        },
+      },{id: "post-how-to-use-multiple-github-accounts-with-different-ssh-keys",
         
           title: "How to Use Multiple GitHub Accounts with Different SSH Keys",
         
