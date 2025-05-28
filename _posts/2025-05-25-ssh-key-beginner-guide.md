@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "SSH Key Beginner’s Guide: Generation, Naming, Multiple Keys, Multi-Server Setup & GitHub Configuration"
-description: Complete SSH Guide for Beginners
+title: "Complete SSH Guide for Beginners: Generating, Naming and Mananing SSH Keys."
+seo_title: "How to generate and manage multiple SSH keys beginner guide"
+description: “Everything you need to know about generating, naming, and managing SSH keys.”
 date: 2025-05-25
 tags: [git, github, ssh]
 categories:
