@@ -1,7 +1,12 @@
-# SSH Key Beginner’s Guide: Generation, Naming, Multiple Keys, Multi-Server Setup & GitHub Configuration
-
 ---
-
+layout: post
+title: "SSH Key Beginner’s Guide: Generation, Naming, Multiple Keys, Multi-Server Setup & GitHub Configuration"
+description: Complete SSH Guide for Beginners
+date: 2025-05-25
+tags: [git, github, ssh]
+categories:
+- Version Control
+---
 ## 1. What is an SSH Key?
 
 An SSH key is a pair of encrypted keys (public and private) used for secure remote login and authentication. Compared to passwords, SSH keys are more secure and easier to automate.
