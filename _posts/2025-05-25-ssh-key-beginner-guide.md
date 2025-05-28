@@ -139,13 +139,18 @@ This lets you use different keys for different accounts and servers without conf
 
 ---
 
-## 8. Summary
+Summary
 
-- Use ed25519 keys by default for better security and speed  
-- Use `-f` to specify filenames and manage multiple keys easily  
-- Configure `~/.ssh/config` to handle multiple keys and hosts smoothly  
-- Copy the `.pub` file content to GitHub or servers to enable access  
-- Add meaningful comments to identify keys easily  
+This beginner-friendly guide covers all the essentials for working with SSH keys, including:
 
-This beginner’s guide should help you quickly start with SSH keys and manage them effectively!
+- What SSH keys are and why they are better than passwords  
+- How to generate secure ed25519 SSH keys with custom filenames  
+- How to view and copy your public key for use on GitHub and servers  
+- How to add your SSH public key to GitHub for passwordless access  
+- How to manage multiple SSH keys and accounts using the SSH config file  
+- Tips for naming keys and organizing multiple server connections  
+
+By following this guide, you will be able to confidently generate, name, and manage multiple SSH keys across different GitHub accounts and servers, improving your workflow security and convenience. Enjoy!
+
+If you have any questions or want to share your experience, feel free to leave a comment below. Let’s learn together! ：）
 
