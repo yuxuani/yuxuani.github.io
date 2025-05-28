@@ -7,6 +7,12 @@ tags: [git, github, ssh]
 categories:
 - Version Control
 ---
+<p style="color: #5B9BD5; font-style: italic;">
+  Note: If you’re new to SSH, please check out my latest post 
+  <a href="../ssh-key-beginner-guide" style="color: #6A5ACD; font-style: italic;">
+    Complete SSH Key Beginner’s Guide
+  </a>, which is more beginner-friendly and comprehensive. This article has more detailed information for those interested in specifics.
+</p>
 
 If you're working with multiple GitHub accounts, you might want to keep your credentials separate for each account. This tutorial will show you how to use different SSH keys for two GitHub accounts (`account1` and `account2`) on the same machine.
 
