@@ -20,12 +20,12 @@ I’m always happy to connect! Feel free to reach out via [Email](mailto:yuxuan.
 
 ## Social Media & Academic Profiles
 
-- **LinkedIn**: [Follow / Connect](https://www.linkedin.com/in/yuxuan-z-xie) – Let’s connect professionally!  
-- **GitHub**: [View My Projects](https://github.com/yuxuani) – Explore my code and projects.  
-- **Kaggle**: [Check My Data Science Work](https://www.kaggle.com/yuxuani) – Projects and datasets.  
-- **Google Scholar**: [View My Publications](https://scholar.google.com/citations?user=U5vsr_EAAAAJ) – See my academic work.  
-- **X (Twitter)**: [Follow Me](https://x.com/yuxuanzxie) – Not very active, but welcome to follow.  
-- **Bluesky**: [Follow Me](https://bsky.app/profile/yuxuani.bsky.social) – Rarely used, but feel free to connect.
+- **LinkedIn**: [Connect & Collaborate](https://www.linkedin.com/in/yuxuan-z-xie) – Let’s network professionally
+- **GitHub**: [Dive into Code](https://github.com/yuxuani) – View my projects
+- **Kaggle**: [Play with Data](https://www.kaggle.com/yuxuani) – Explore my Kaggle
+- **Google Scholar**: [Read My Papers](https://scholar.google.com/citations?user=U5vsr_EAAAAJ) –  Explore my research 
+- **X (Twitter)**: [Tweets Occasionally](https://x.com/yuxuanzxie) – Follow if curious
+- **Bluesky**: [Fresh Start](https://bsky.app/profile/yuxuani.bsky.social) – Rare updates, but welcome to follow
 
 ---
 
