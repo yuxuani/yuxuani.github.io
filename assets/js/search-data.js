@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-complete-ssh-guide-for-beginners-generating-naming-and-mananing-ssh-keys",
+        },{id: "post-data-profiling-pandas-ydata-profiling-or-ydata-sdk",
+        
+          title: "Data Profiling: pandas, YData-Profiling, or YData-SDK?",
+        
+        description: "“A quick look at the strengths and limitations of pandas, YData-Profiling, and YData-SDK for data profiling.”",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/data-profiling-tools/";
+          
+        },
+      },{id: "post-complete-ssh-guide-for-beginners-generating-naming-and-mananing-ssh-keys",
         
           title: "Complete SSH Guide for Beginners: Generating, Naming and Mananing SSH Keys.",
         
