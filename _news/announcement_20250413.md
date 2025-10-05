@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-🎉 Website updates — now live with Docker integration!
+🐳 Website updates — now live with Docker integration!
