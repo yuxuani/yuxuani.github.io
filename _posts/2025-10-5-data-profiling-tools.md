@@ -4,9 +4,9 @@ title: "Data Profiling: pandas, YData-Profiling, or YData-SDK?"
 seo_title: "Data Profiling Tools Compared: pandas vs YData-Profiling vs YData-SDK"
 description: “A quick look at the strengths and limitations of pandas, YData-Profiling, and YData-SDK for data profiling.”
 date: 2025-10-05
-tags: [data profiling, github, ssh]
+tags: [data, profiling, EDA]
 categories:
-- EDA
+- data science
 ---
 When working on the **prepare phase** of a data science or machine learning project, one of the most important steps is **checking data quality and integrity**. The tools you choose can make this process either a smooth, insightful experience or a time-consuming exercise.
 
