@@ -22,7 +22,6 @@ I’m always happy to connect! Feel free to reach out via [Email](mailto:yuxuan.
 
 - **LinkedIn**: [Connect & Collaborate](https://www.linkedin.com/in/yuxuan-z-xie) – Let’s network professionally
 - **GitHub**: [Dive into Code](https://github.com/yuxuani) – View my projects
-- **Kaggle**: [Play with Data](https://www.kaggle.com/yuxuani) – Browse my Kaggle
 - **Google Scholar**: [Read My Papers](https://scholar.google.com/citations?user=U5vsr_EAAAAJ) –  Explore my research 
 - **X (Twitter)**: [Tweets Occasionally](https://x.com/yuxuanzxie) – Follow if curious
 - **Bluesky**: [Fresh Start](https://bsky.app/profile/yuxuani.bsky.social) – Rare updates, but welcome to follow
