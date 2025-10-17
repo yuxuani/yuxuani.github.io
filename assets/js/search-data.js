@@ -148,7 +148,17 @@ ninja.data = [{
           section: "News",},{id: "news-website-updates-now-live-with-docker-integration",
           title: '🐳 Website updates — now live with Docker integration!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-espbm",
+          title: 'ESPBM',
+          description: "Eye State Prototype Blink Matching",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_w_ESPBM/";
+            },},{id: "projects-sensorgan",
+          title: 'SensorGAN',
+          description: "Facial Paresis Analysis with CycleGAN",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_w_SensorGAN/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
