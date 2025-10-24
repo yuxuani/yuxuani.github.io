@@ -165,7 +165,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_w_ESPBM/";
             },},{id: "projects-sensorgan",
-          title: 'SensorGAN',
+          title: '“SensorGAN”',
           description: "Facial Paresis Analysis with CycleGAN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_w_SensorGAN/";
