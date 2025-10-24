@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-data-profiling-pandas-ydata-profiling-or-ydata-sdk",
+        },{id: "post-sql-vs-pandas-command-comparison-en-de-zh",
+        
+          title: "SQL vs Pandas Command Comparison (en/de/zh)",
+        
+        description: "Compare SQL and Pandas commands in English, German, and Chinese for efficient data analysis.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sql-pandas-comparison/";
+          
+        },
+      },{id: "post-data-profiling-pandas-ydata-profiling-or-ydata-sdk",
         
           title: "Data Profiling: pandas, YData-Profiling, or YData-SDK?",
         
