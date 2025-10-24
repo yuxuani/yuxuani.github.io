@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SensorGAN
+title: “SensorGAN”
 description: Facial Paresis Analysis with CycleGAN
 img: assets/img/project_covers/mindfield-biosystems-NnKXOTBJvfQ-unsplash.jpg
 importance: 2
@@ -17,9 +17,11 @@ The approach builds on the earlier work led by one of our colleagues (Büchner, 
 
 These findings suggest that GAN-based reconstruction has the potential to restore obscured facial features of facial palsy patients and provide useful insights for research and clinical applications. While the results are promising, further investigation is needed to fully understand its limitations and generalization across diverse patient populations.
 
-## Reference
+**Due to ongoing research and data protection, results are not published. If you are interested in this project, please visit the project homepage for more information.** 👇
+
 [Project: Bridging the Gap – Mimics and Muscles](https://inf-cv.uni-jena.de/home/research/learning3d/facial-paresis-analysis/)
 
+## References
 Zhu, Jun-Yan ; Park, Taesung ; Isola, Phillip ; Efros, Alexei A.: Unpaired Image-To-Image Translation Using Cycle-Consistent Adver- sarial Networks, 2017, 2223–2232
 
 Büchner, Tim ; Guntinas-Lichius, Orlando ; Denzler, Joachim: Improved Obstructed Facial Feature Reconstruction for Emotion Recognition with Minimal Change CycleGANs. In: Blanc-Talon, Jaques (Hrsg.) ; Delmas, Patrice (Hrsg.) ; Philips, Wilfried (Hrsg.) ; Scheunders, Paul (Hrsg.): Advanced Concepts for Intelligent Vision Systems. Cham : Springer Nature Switzerland, 2023 (Lecture Notes in Computer Science). – ISBN 978–3–031–45382–3, S. 262–274
