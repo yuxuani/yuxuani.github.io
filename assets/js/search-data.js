@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-sql-vs-pandas-command-comparison-en-de-zh",
+        },{id: "post-sql-vs-pandas-operation-comparison-en-de-zh",
         
-          title: "SQL vs Pandas Command Comparison (en/de/zh)",
+          title: "SQL vs Pandas Operation Comparison (en/de/zh)",
         
-        description: "Compare SQL and Pandas commands in English, German, and Chinese for efficient data analysis.",
+        description: "Compare SQL and Pandas operations in English, German, and Chinese for efficient data analysis.",
         section: "Posts",
         handler: () => {
           
